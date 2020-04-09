@@ -1,0 +1,23 @@
+{
+  "name": "lorin-bot",
+  "version": "0.1.0",
+  "description": "A servant to the bass",
+  "main": "lorin.js",
+  "scripts": {
+    "start": "node lorin.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.2.0",
+    "express": "^4.16.2",
+    "googleapis": "^45.0.0",
+    "random-boolean": "1.0.0"
+  },
+  "engines": {
+    "node": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CFLombardi/loBot.git"
+  },
+  "author": "CFLombardi"
+}
